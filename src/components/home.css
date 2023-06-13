@@ -1,0 +1,8 @@
+.container-fluid
+{
+    display: grid;
+    grid-template-columns: 300px 300px;
+}
+#mi{
+    margin-left: 320px;
+}

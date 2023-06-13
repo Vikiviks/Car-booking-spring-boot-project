@@ -1,0 +1,67 @@
+.login-container
+{
+position: relative;
+top: 10rem;
+left: 24rem;
+width: 70rem;
+background-color: white;
+border-radius: 20px;
+padding: 40px;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.signup-container
+{
+position: relative;
+top: 10rem;
+left: 24rem;
+width: 70rem;
+background-color: white;
+border-radius: 20px;
+padding: 40px;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.booking-container
+{
+position: relative;
+top: 10rem;
+left: 24rem;
+width: 70rem;
+height: 38rem;
+background-color: white;
+border-radius: 20px;
+padding: 40px;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.adminsignup-container
+{
+position: relative;
+top: 4rem;
+left: 24rem;
+width: 70rem;
+height: 51rem;
+background-color: white;
+border-radius: 20px;
+padding: 40px;
+box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+.loginbg{
+    background-image: url("C:\Users\jsath\OneDrive\Documents\newpro\newpro\src\asserts\asthetic.png");
+    height: 100vh;
+}
+.signbg{
+    background-image: url("C:\Users\jsath\OneDrive\Documents\newpro\newpro\src\asserts\sky.jpg");
+    height:100vh;
+
+}
+.adminloginbg{
+    background-image: url("C:\Users\jsath\OneDrive\Documents\newpro\newpro\src\asserts\plant.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+.adminsignupbg{
+    background-image: url("C:\Users\jsath\OneDrive\Documents\newpro\newpro\src\asserts\blue.jpg");
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+
+

@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,500;0,600;0,700;0,800;0,900;1,500;1,600;1,700;1,800&display=swap');
+
+body
+{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+#tata{
+    background-color: black;
+}
+.wallbg{
+    background-repeat: no-repeat;
+    height: 50vh;
+    overflow:hidden;
+    background-size: cover;
+    position: absolute;
+    }
+ 
+    #car{
+     
+        position: absolute;
+    
+    }
+    #rat{
+        color: aliceblue;
+        font-family:'Times New Roman', Times, serif;
+        left:121px;
+        top: 218px;
+    }
+    .pluto{
+    
+        width: 800px;
+        border-radius: 10px;
+        background-color: aliceblue;
+        top: 290px;
+        left: 120px;
+        border-color: azure;
+    }
+    #ss{
+        margin-left: 940px;
+        margin-top: 120px;
+ 
+    }
+#arrow{
+    background-color: aliceblue;
+}
+#last{
+    background-color:green;
+    border-radius: 12px;
+}
+#link2{
+    margin-left:12px;
+}
+
+#kkr{
+    padding-left: 120px;
+    margin-top: 222px;
+    
+
+
+}
+#form1s{
+    background-color: aliceblue;
+    width: 600px;
+    height: 42px;
+}
+#csk{
+    background-color: rgb(20, 18, 18);
+}
+#mi{
+    margin-left: 1620px;
+}
+#gk{
+    margin-left: 1350px;
+   
+}
+ .delete_navbar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ }
